@@ -1,7 +1,7 @@
 {
-  "name": "backfly",
+  "name": "Hellonode",
   "version": "1.0.0",
-  "description": "",
+  "description": "A backend say you hello on the internet",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
